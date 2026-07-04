@@ -10,15 +10,11 @@ Proyek ini adalah sistem pemrosesan dan kalkulasi nilai akhir mahasiswa berbasis
 * **Routing:** React Router DOM
 * **Animation:** Custom Smooth Page Transitions (Fade, Blur, Scale, & Slide)
 
----
-
 ## Fitur Utama & Keunggulan UI/UX
 * Halaman utama bersih dan terfokus pada judul serta deskripsi sistem interaktif.
 * Efek kapsul latar belakang menu navigasi yang meluncur/bergeser mulus saat berpindah halaman (responsif di desktop dan mobile/Android).
 * Input komponen nilai yang rapi dilengkapi dengan validasi kolom kosong secara berkala.
 * Halaman keluaran informasi hasil penilaian yang adaptif dengan indikator warna dinamis sesuai status kelulusan.
-
----
 
 ## Aturan & Logika Pemrosesan Nilai
 
@@ -45,16 +41,16 @@ Proyek ini adalah sistem pemrosesan dan kalkulasi nilai akhir mahasiswa berbasis
 
 Pastikan sudah menginstal [Node.js](https://nodejs.org/) di dalam device-nya, kemudian jalankan perintah berikut di terminal:
 
-# 1. Clone repository ini
+### 1. Clone repository ini
 ```git clone [https://github.com/HafizhSparta8207/uts-web2.git](https://github.com/HafizhSparta8207/uts-web2.git)```
 
-# 2. Masuk ke direktori proyek
+### 2. Masuk ke direktori proyek
 ```cd uts-web2```
 
-# 3. Instalasi seluruh dependensi
+### 3. Instalasi seluruh dependensi
 ```npm install```
 
-# 4. Jalankan server lokal untuk development
+### 4. Jalankan server lokal untuk development
 ```npm run dev```
 
 ---
